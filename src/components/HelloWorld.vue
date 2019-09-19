@@ -11,7 +11,7 @@ export default {
   data() {
     return {
       msg: "当前点击次数",
-      runtu: "点击",
+      runtu: "击",
       jz: true
     };
   },
