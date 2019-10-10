@@ -15,6 +15,10 @@ export default {
       jz: true
     };
   },
+
+
+
+  
   methods: {
     handleclick() {
       if (this.jz) {
